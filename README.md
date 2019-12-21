@@ -1,5 +1,5 @@
 # Longbow VR
-![SteamVR Logo](https://steamcdn-a.akamaihd.net/steam/apps/250820/header.jpg?t=1574723957)
+![SteamVR Logo](https://mpng.pngfly.com/20180630/oi/kisspng-htc-vive-oculus-rift-samsung-gear-vr-playstation-v-htc-vive-5b382591d7ac91.2036871415304062898834.jpg)
 ## Background 
 Use your archery skills to defend yourself from a rampaging monster and each killed monster, you will earn a certain gold or coins. From the award that you have such as gold or coins to buy and upgrade your weapon and arrows effect. You can choose variety of weapon and equipment from the store, certain longbow has specific strength and attack damage to the monster. Each level, the monsters are getting stronger and you need to appropriately choose your weapon wisely to attack and destroy them.
 
