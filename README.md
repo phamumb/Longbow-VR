@@ -12,5 +12,11 @@ Use your archery skills to defend yourself from a rampaging monster and each kil
 To run this project, you need to have Unity installed on your local machine.
 Using this link to start the project [Getting Started - Unity](https://docs.unity3d.com/560/Documentation/Manual/GettingStarted.html)
 
+## Team's members:
+Luat Pham, Chau Ngo, 
+Criscello Luz Roque, Pincong Deng
+
 ## Gameplay Demo
+Video credit to: 
+Cj Luz Roque
 [![Audi R8](https://img.youtube.com/vi/yC3-Y-royo4/0.jpg)](https://www.youtube.com/watch?v=yC3-Y-royo4)
