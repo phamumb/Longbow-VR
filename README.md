@@ -18,5 +18,4 @@ Criscello Luz Roque, Pincong Deng
 
 ## Gameplay Demo
 [![Audi R8](https://img.youtube.com/vi/yC3-Y-royo4/0.jpg)](https://www.youtube.com/watch?v=yC3-Y-royo4)
-Video credit to: 
-Cj Luz Roque
+
