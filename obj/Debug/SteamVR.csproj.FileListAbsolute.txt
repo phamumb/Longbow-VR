@@ -1,0 +1,3 @@
+D:\Unity\Project\Longbow VR 3\obj\Debug\SteamVR.csprojResolveAssemblyReference.cache
+D:\Unity\Project\Longbow VR 3.2.1\Longbow VR 3\Longbow VR 3\obj\Debug\SteamVR.csprojResolveAssemblyReference.cache
+C:\Users\Luat\Desktop\Longbow VR 3\Longbow VR 3\obj\Debug\SteamVR.csprojResolveAssemblyReference.cache
